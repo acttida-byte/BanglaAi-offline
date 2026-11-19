@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">বন্ধু এআই</string>
+
+    <!-- Navigation -->
+    <string name="nav_chat">চ্যাট</string>
+    <string name="nav_text_studio">টেক্সট এআই</string>
+    <string name="nav_media_studio">ছবি ও ভিডিও</string>
+    <string name="nav_security">সুরক্ষা</string>
+
+    <!-- Common Status & Badges -->
+    <string name="status_offline_active">১০০% অফলাইন সক্রিয়</string>
+    <string name="status_encrypted_local">AES-256 এনক্রিপ্টেড</string>
+    <string name="notice_firebase_required">অফলাইন লোকাল ইঞ্জিন সক্রিয় • ক্লাউড জেমিনি এআই-এর জন্য ফায়ারবেস সেটআপ প্রয়োজন</string>
+
+    <!-- Mood Labels -->
+    <string name="mood_calm">শান্ত ও খুশি</string>
+    <string name="mood_annoyed">একটু বিরক্ত</string>
+    <string name="mood_angry">রেগে গেছে!</string>
+    <string name="mood_furious">চরম ক্ষিপ্ত (চুপ)</string>
+    <string name="mood_meter_title">মেজাজ মিটার</string>
+    <string name="btn_apologize">সরি বলুন</string>
+    <string name="btn_calm_down">ঠান্ডা করুন</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_title">বন্ধু এআই</string>
+    <string name="chat_input_hint">বাংলায় কিছু লিখুন বা জিজ্ঞেস করুন...</string>
+    <string name="chat_input_furious_hint">রাগ করেছে! আগে সরি বলুন বা শান্ত করুন...</string>
+    <string name="chat_send_desc">বার্তা পাঠান</string>
+    <string name="chat_avatar_desc">এআই বন্ধুর মুখ — বেশি খোঁচা দিলে রাগ করবে</string>
+    <string name="chat_clear_desc">চ্যাট মুছুন</string>
+
+    <!-- Text Studio -->
+    <string name="text_studio_title">অফলাইন টেক্সট প্রসেসিং</string>
+    <string name="text_input_hint">এখানে বাংলা বা ইংরেজি অনুচ্ছেদ লিখুন বা পেস্ট করুন...</string>
+    <string name="text_sample_btn">নমুনা টেক্সট</string>
+    <string name="text_clear_btn">মুছুন</string>
+    <string name="text_save_vault_btn">ভল্টে সেভ করুন</string>
+    <string name="text_copy_btn">কপি করুন</string>
+
+    <!-- Media Studio -->
+    <string name="media_tab_image">ছবি তৈরি</string>
+    <string name="media_tab_video">ভিডিও তৈরি</string>
+    <string name="media_tab_gallery">গ্যালারি</string>
+    <string name="image_prompt_hint">কী ধরনের ছবি বানাতে চান? (যেমন: পাহাড়ে সূর্যাস্ত)</string>
+    <string name="image_generate_btn">ছবি তৈরি করুন</string>
+    <string name="video_title_hint">ভিডিওর শিরোনাম লিখুন (বাংলায়)</string>
+    <string name="video_caption_hint">ভিডিওর সাবটাইটেল বা বার্তা লিখুন...</string>
+    <string name="video_pick_photos_btn">ফোন থেকে ছবি নিন</string>
+    <string name="video_generate_btn">MP4 ভিডিও বানান</string>
+
+    <!-- Security & Vault -->
+    <string name="security_title">ডাটা সিকিউরিটি ও ভল্ট</string>
+    <string name="security_pin_title">অ্যাপ পিন লক</string>
+    <string name="security_screen_privacy_title">স্ক্রিনশট সুরক্ষা (FLAG_SECURE)</string>
+    <string name="security_lock_now">এখনই লক করুন</string>
+    <string name="security_wipe_all">সব ডাটা মুছে ফেলুন</string>
+    <string name="pin_unlock_title">বন্ধু এআই আনলক করুন</string>
+    <string name="pin_unlock_subtitle">আপনার ৪-সংখ্যার গোপন পিন দিন</string>
+    <string name="pin_wrong_error">পিন ভুল হয়েছে! আবার চেষ্টা করুন</string>
+</resources>

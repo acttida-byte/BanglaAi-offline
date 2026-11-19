@@ -1,0 +1,6 @@
+{
+  "name": "বন্ধু এআই",
+  "description": "বাংলা ভাষায় অফলাইন-ফার্স্ট এআই সহকারী: টেক্সট প্রসেসিং, মুড-ভিত্তিক চ্যাট, ছবি ও ভিডিও তৈরি এবং এনক্রিপ্টেড ডাটা সিকিউরিটি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
